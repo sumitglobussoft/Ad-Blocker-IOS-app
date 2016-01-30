@@ -1,0 +1,11 @@
+[
+  {
+  "trigger":{
+  "url-filter":"http://adblock.globusapps.com/testWebView.html"
+  },
+  "action":{
+  "type":"block"
+  "selector":"#IDD"
+  }
+  }
+]
